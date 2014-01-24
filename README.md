@@ -1,4 +1,4 @@
-utahember.github.com
+utahember.github.io
 ====================
 
 Utah Ember User Group website.
