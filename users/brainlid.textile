@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Mark Ericksen is brainlid"
+username: brainlid
+fullname: "Mark Ericksen"
+---
+Mark Ericksen is brainlid. He really intends to update this bio too.
+
+* "twitter":http://twitter.com/brainlid
+
+

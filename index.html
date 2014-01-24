@@ -1,0 +1,30 @@
+---
+layout: default
+title:  "Utah Ember User Group"
+---
+<h1>Who are you?</h1>
+<p>The Utah Ember Users Group ("UtahEmber") is a mostly informal collection of individuals interested in the Ember javascript framework.</p>
+
+<h1>When do you meet?</h1>
+
+<h2 id="slc">Salt Lake County</h2>
+<p>4th Thursday of the month at 6:30 PM<br>
+Instructure offices
+</p>
+
+<h1>How do I join?</h1>
+<p>Utah Ember membership is free and with no obligations. Just show up to the meetings periodically, and you're welcome to call yourself a member of UtahEmber User Group.</p>
+
+{% if site.posts.size > 0 %}
+<section style="posts">
+  <h1>Posts!</h1>
+{% for post in site.posts limit:3 %}
+  <article>
+    <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
+    {{ post.description | textilize }}
+    <p>Posted by <a href="http://github.com/{{ post.author }}">{{ post.author }}</a> on {{ post.date | date_to_string }}.</p>
+  </article>
+{% endfor %}
+  <p><a href="/posts">More posts!</a></p>
+</section>
+{% endif %}

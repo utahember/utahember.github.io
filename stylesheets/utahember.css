@@ -1,0 +1,153 @@
+/* @override http://utahember.org/stylesheets/utahember.css */
+
+@font-face {
+    font-family: 'LeagueGothicRegular';
+    src: url('fonts/League_Gothic-webfont.eot');
+    src: url('fonts/League_Gothic-webfont.eot?iefix') format('eot'),
+         url('fonts/League_Gothic-webfont.woff') format('woff'),
+         url('fonts/League_Gothic-webfont.ttf') format('truetype'),
+         url('fonts/League_Gothic-webfont.svg#webfontFHzvtkso') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	font: 16px/24px Geneva, Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000;
+	background-color: #fff;
+}
+
+h1 {
+	margin: 0.25em 0;
+	font: 42px/48px 'LeagueGothicRegular';
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
+}
+
+h2 {
+	margin: 0.25em 0;
+	font: 36px/42px 'LeagueGothicRegular';
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
+}
+
+h3 {
+	margin: 0.25em 0;
+	font: 24px/28px 'LeagueGothicRegular';
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
+}
+
+p {
+	margin: 1em 0;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #bf1e2d;
+}
+
+ul {
+	list-style-position: outside;
+	list-style-type: disc;
+	margin-left: 2em;
+}
+
+body > header {
+	text-align: center;
+}
+
+body > header h1 {
+	font: 60px/68px 'LeagueGothicRegular';
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
+	margin: 0;
+}
+
+body > header h1 a {
+	color: #000;
+	font-weight: normal;
+    font-style: normal;
+}
+
+body > header h2 {
+	font: 42px/48px 'LeagueGothicRegular';
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
+	margin: 0;
+}
+
+body > header p.funny {
+	background-image: url(../images/funny.png);
+	text-indent: -9999px;
+	width: 388px;
+	height: 48px;
+	position: relative;
+	top: -16px;
+	left: 162px;
+	margin: 0;
+}
+
+body > nav {
+	padding: 0;
+	margin: 12px auto;
+	width: 600px;
+	background-color: black;
+	color: white;
+	font-size: 18px;
+	-ms-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+body > nav ul {
+	list-style: none;
+	margin: 0 16px;
+	overflow: auto;
+}
+
+body > nav li {
+	float: left;
+	padding: 8px;
+}
+
+body > nav li:hover {
+	background-color: #555;
+}
+
+body > nav a {
+	color: white;
+}
+
+body > footer {
+	text-align: center;
+}
+
+body > table { 
+	width: 100%;
+	padding: 0;
+	margin: 0;	
+	border: 1px solid black;
+}
+            
+body > table th {
+	background: #000;
+	font-weight: bold;
+	color: white;
+}
+
+body > table td {
+	padding: 3px;
+	border: 1px solid black;
+}
