@@ -7,5 +7,6 @@ fullname: "Mark Ericksen"
 Mark Ericksen is brainlid. He really intends to update this bio too.
 
 * "twitter":http://twitter.com/brainlid
+* "github":http://github.com/brainlid
 
 
