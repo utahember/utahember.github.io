@@ -1,0 +1,15 @@
+---
+layout:   page
+title:    "AJ Webb"
+username: webbushka
+fullname: "AJ Webb"
+---
+Senior Software Engineer at @VivintHome, freelance web developer, 
+co-creator of Payba.cc and my daughters Presley & Marley
+
+"portfolio":http://ajwebb.me
+"twitter":http://twitter.com/webbushka
+"github":https://github.com/webbushka
+"dribbble":http://dribbble.com/webbushka
+"linkedIn":http://www.linkedin.com/pub/aj-webb/20/a2a/785
+"codepen":http://codepen.io/webbushka
