@@ -5,4 +5,5 @@ title:  "Utah Companies using Ember.js"
 
 |_. Company |_. Location |_. Contact |_. Hiring|
 |"Instructure":http://www.instructure.com/||||
+|"Vivint":http://www.vivint.com|Provo, UT|||
 
