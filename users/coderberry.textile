@@ -1,11 +1,11 @@
 ---
 layout:   page
 title:    "Eric Berry"
-username: cavneb
+username: coderberry
 fullname: "Eric Berry"
 ---
 I love Ember.
 
 "blog":http://coderberry.me
-"twitter":http://twitter.com/cavneb
+"twitter":http://twitter.com/coderberry
 "github":https://github.com/cavneb
