@@ -7,5 +7,5 @@ fullname: "Isaac Gifford"
 One day I will write something more exciting here...
 
 "blog":http://geekingreen.com
-"twitter":http://twitter.com/geekingreen_
+["twitter":http://twitter.com/geekingreen_]
 "github":https://github.com/geekingreen
