@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Tyler Ipson"
+username: loremipson
+fullname: "Tyler Ipson"
+---
+I'm a frontend developer / designer for Clearlink and as freelance on the side. I'm here to solidify my javascript skills and learn from the greats.
+
+"blog":http://loremipson.com
+"twitter":http://twitter.com/loremipson
+"github":https://github.com/loremipson
+"dribbble":https://dribbble.com/loremipson
+"codepen":http://codepen.io/loremipson
+"linkedin":http://www.linkedin.com/pub/tyler-ipson/24/530/a65/
