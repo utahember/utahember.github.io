@@ -11,4 +11,4 @@ I'm a frontend developer / designer for Clearlink and as freelance on the side. 
 "github":https://github.com/loremipson
 "dribbble":https://dribbble.com/loremipson
 "codepen":http://codepen.io/loremipson
-"linkedin":www.linkedin.com/pub/tyler-ipson/24/530/a65/
+"linkedin":http://www.linkedin.com/pub/tyler-ipson/24/530/a65/
