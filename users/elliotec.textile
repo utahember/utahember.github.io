@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Mike Elliott"
+username: elliotec
+fullname: "Mike Elliott"
+---
+I'm a developer that recognizes the superiority of Ember in the JS framework battles. Happy to contribute any way I can.
+
+I'll link my blog when its in a more linkable state.
+"twitter":http://twitter.com/elliotecweb
+"github":https://github.com/elliotec
