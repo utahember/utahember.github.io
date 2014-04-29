@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Nelson Wittwer"
+username: nelsonwittwer
+fullname: "Nelson Wittwer"
+---
+Primarily code on the backend (Ruby on Rails), but am looking to level up my frontend game with Ember.
+I'm starting a company that builds online tools for home builders and remodelers.
+
+"twitter":http://twitter.com/nelsonwittwer
+"github":https://github.com/nelsonwittwer
