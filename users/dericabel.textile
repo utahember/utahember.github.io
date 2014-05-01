@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Deric Abel"
+username: dericabel
+fullname: "Deric Abel"
+---
+I love Ember.
+
+"blog":http://blog.dericabel.com
+"twitter":http://twitter.com/dericabel
+"github":https://github.com/dericabel
