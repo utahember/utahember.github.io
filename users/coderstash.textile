@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Bob Hanson"
+username: coderstash
+fullname: "Bob Hanson"
+---
+Bob is owner of Cube2media, a Ruby and Javascript dev shop. Im a Sr Developer for Verisk Health Front-End Tech Lead and Ember/Javascript enthusiast.
+
+"blog":http://www.cube2media.com/blogs
+"twitter":http://twitter.com/coderstash
+"github":https://github.com/electricgraffitti
