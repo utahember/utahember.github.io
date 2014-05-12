@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "codingfoo"
+username: codingfoo
+fullname: "Bowen Masco"
+---
+I lack the willpower to not tinker.
+
+"blog":http://www.codingfoo.com
+"twitter":http://twitter.com/codingfoo
+"github":https://github.com/codingfoo
